@@ -1,10 +1,6 @@
 ### 👋 Hi, I'm popcell
 
-> Seek knowledge like thirst, be modest like foolishness.
 
-### About me
-
-- An ordinary developer.
 
 
 
